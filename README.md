@@ -1,6 +1,6 @@
 # Full stack ecommerce online store application
 
-#### back-end code [click here](https://github.com/shikharx06/Ecommerce-NodeApp)
+#### back-end code [click here](https://github.com/VivekBadani/Ecommerce-app-using-nodeJS)
 
 ## General Info
 
